@@ -4,5 +4,6 @@
 #include "CMakeStatic.h"
 
 const char* MyClass::SayHello() {
+	char str[] = "Testing git...";
 	return "Hello Yang.";
 }
