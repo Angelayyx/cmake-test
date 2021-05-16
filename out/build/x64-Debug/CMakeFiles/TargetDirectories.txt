@@ -1,0 +1,8 @@
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/HelloWorld_CMake/CMakeFiles/rebuild_cache.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/HelloWorld_CMake/CMakeFiles/CMakeProject.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/HelloWorld_CMake/CMakeFiles/edit_cache.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/CMakeStatic/CMakeFiles/CMakeStatic.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/CMakeStatic/CMakeFiles/edit_cache.dir
+C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug/CMakeStatic/CMakeFiles/rebuild_cache.dir

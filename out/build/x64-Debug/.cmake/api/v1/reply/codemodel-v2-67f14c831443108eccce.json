@@ -1,0 +1,98 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "HelloWorld_CMake",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "HelloWorld_CMake",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "CMakeStatic",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "CMakeStatic",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "HelloWorld_CMake",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "CMakeProject::@a00a08e6509c068f4861",
+					"jsonFile" : "target-CMakeProject-Debug-c2c6fb488569e5ca1c7e.json",
+					"name" : "CMakeProject",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "CMakeStatic::@299b93153898429305ed",
+					"jsonFile" : "target-CMakeStatic-Debug-6ac3131445ca12425e80.json",
+					"name" : "CMakeStatic",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/BBNC/source/repos/test/HelloWorld_CMake/out/build/x64-Debug",
+		"source" : "C:/Users/BBNC/source/repos/test/HelloWorld_CMake"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

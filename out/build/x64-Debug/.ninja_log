@@ -1,0 +1,8 @@
+# ninja log v5
+8	588	6428574736065294	CMakeStatic/CMakeFiles/CMakeStatic.dir/CMakeStatic.cpp.obj	1d8f175fb10f4c4
+590	692	6428574737063669	lib/CMakeStatic.lib	146c16b87ed88532
+1	617	6428576930202608	HelloWorld_CMake/CMakeFiles/CMakeProject.dir/HelloWorld_CMake.cpp.obj	13ea31d93e1c106d
+618	965	6428576933587174	lib/CMakeProject.exe	887dfe5e8ff06cff
+1	64	6428577110147165	CMakeStatic/CMakeFiles/CMakeStatic.dir/CMakeStatic.cpp.obj	1d8f175fb10f4c4
+66	113	6428577110626130	lib/CMakeStatic.lib	146c16b87ed88532
+114	266	6428577111794251	lib/CMakeProject.exe	887dfe5e8ff06cff
